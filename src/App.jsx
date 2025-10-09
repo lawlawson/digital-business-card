@@ -6,14 +6,14 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    <>
+    <div className='main'>
       <div className='container'>
         <Info />
         <About />
         <Interests />
         <Footer />
       </div>
-    </>
+    </div>
   );
 }
 
