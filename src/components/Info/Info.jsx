@@ -1,3 +1,5 @@
+import './info.css';
+
 function Info() {
   return (
     <div className='info'>
@@ -5,6 +7,10 @@ function Info() {
       <h2>Lawrence Narh-Lawson</h2>
       <p>Front End Developer</p>
       <p>lawlawson.dev</p>
+      <div className='buttons'>
+        <button>Email</button>
+        <button>LinkedIn</button>
+      </div>
     </div>
   );
 }
