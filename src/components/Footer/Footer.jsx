@@ -1,3 +1,5 @@
+import '/src/components/Footer/Footer.css';
+
 function Footer() {
   return (
     <div className='footer'>
