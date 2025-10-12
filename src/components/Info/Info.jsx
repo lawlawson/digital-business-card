@@ -8,8 +8,8 @@ function Info() {
       <p>Front End Developer</p>
       <p>lawlawson.dev</p>
       <div className='buttons'>
-        <button>Email</button>
-        <button>LinkedIn</button>
+        <button className='email-button'>Email</button>
+        <button className='linkedin-button'>LinkedIn</button>
       </div>
     </div>
   );
