@@ -39,3 +39,9 @@
   height: 35px;
   margin: 20px 10px;
 }
+
+.linkedin-button {
+  background-color: #5093e2;
+  color: #fff;
+  border: none;
+}
