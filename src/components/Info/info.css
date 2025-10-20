@@ -45,3 +45,21 @@
   color: #fff;
   border: none;
 }
+
+.email-button {
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
+
+.linkedin-button::before {
+  content: url('../../assets/linkedin.png');
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.email-button::before {
+  content: url('../../assets/mail.png');
+  margin-right: 8px;
+  vertical-align: middle;
+}
