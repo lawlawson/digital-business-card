@@ -44,12 +44,14 @@
   background-color: #5093e2;
   color: #fff;
   border: none;
+  cursor: pointer;
 }
 
 .email-button {
   background-color: #fff;
   color: #000;
   border: none;
+  cursor: pointer;
 }
 
 .linkedin-button::before {
